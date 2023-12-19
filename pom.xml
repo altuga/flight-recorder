@@ -19,8 +19,8 @@
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <maven.compiler.parameters>true</maven.compiler.parameters>
         <maven.compiler.compilerArgs>--enable-preview</maven.compiler.compilerArgs>
-        <maven.compiler.source>20</maven.compiler.source>
-        <maven.compiler.target>20</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
